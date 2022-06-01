@@ -39,3 +39,4 @@ So, let that be a lesson to budding data scientists out there. Don’t be afraid
 There is a lot more to learn in your data science career than these tips of course, but nevertheless, they’ll make it just a little easier to solve even the most gargantuan problems you will face.
 
 
+![image](https://user-images.githubusercontent.com/100648556/171470508-0825e31b-928f-4601-9562-5a6cca726b0c.png)
